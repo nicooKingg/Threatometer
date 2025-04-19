@@ -4,7 +4,7 @@ import sys
 import os
 
 # Configuration
-GITHUB_TOKEN = "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"  # 🔐 Keep this secret
+GITHUB_TOKEN = "Z2l0aHViX3BhdF8xMUJRVkdWVFkwZDVrOXZsMFBKaVdQX2VtWDk3M0FaZU9EMkxjdWRIMHFLSU5Yb3V1engzTmVQRURvVnR2RElEOVlEVVpNUVUzRndkTzhoUWZ1"  # 🔐 Keep this secret
 REPO_OWNER = "niccoKingg"
 REPO_NAME = "Threatometer"
 ISSUE_LABELS = ["bug", "auto-report"]
