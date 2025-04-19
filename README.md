@@ -13,11 +13,11 @@ Threatometer is only for goverment/buisness computers, this is because it can pr
 
 # Beta
 Threatometer is still in the making, it will not be done till a while.
-Threatometer doesnt have to be specifically for the goverment or buisness, it is super good for those spesific computers though.
+Threatometer doesnt have to be specifically for the goverment or buisness, it is super good for those spesific computers though..
 
 # Copywright 
 
-Threatometer (c) is copywrighted and will not be permitted to be copied or remixed in any way.
+Threatometer (c) is copywrighted and will not be permitted to be copied or remixed in any way. 
 If Threatometer is copied or remixed in anyway, our legal team will be contacted!
 
 
